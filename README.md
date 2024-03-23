@@ -16,7 +16,7 @@ are not terribly complex, but it is still difficult to keep track of so much inf
 it is harder to fully grasp what is happening. The from-scratch version includes a lot of comments that I wrote, mainly so that I could drill the concepts into my own head.
 
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/f7VtDW6oKnQ)
 
 # Development Environment
 
