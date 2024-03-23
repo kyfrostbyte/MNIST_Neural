@@ -38,7 +38,7 @@ Libraries:
 # Useful Websites
 
 - [TensorFlow](https://www.tensorflow.org/datasets/catalog/mnist)
-- [Wiki for backprop](https://en.wikipedia.org/wiki/Backpropagation#:~:text=Essentially%2C%20backpropagation%20evaluates%20the%20expression,%22backwards%20propagated%20error%22).)
+- [Wiki for backprop](https://en.wikipedia.org/wiki/Backpropagation#:~:text=Essentially%2C%20backpropagation%20evaluates%20the%20expression,%22backwards%20propagated%20error%22)
 - [MNIST CSV download](https://www.kaggle.com/datasets/oddrationale/mnist-in-csv?resource=download&select=mnist_train.csv)
 - [NEAT](https://neat-python.readthedocs.io/en/latest/neat_overview.html)
 
